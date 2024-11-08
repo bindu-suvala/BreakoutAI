@@ -29,4 +29,4 @@ This is a customizable email generator that allows users to define placeholders 
 - JavaScript
 
 ## Demo
-You can view the project live at [replit Pages](https://replit.com/@suvalabindhu/INTERNSHIP-1)(https://f67538e9-66ea-44b3-bb10-4fa414cc3384-00-1uj54yx85i701.picard.replit.dev/) once you enable GitHub Pages for your repository.
+You can view the project live at [replit Pages](https://replit.com/@suvalabindhu/INTERNSHIP-1#index.html)(https://f67538e9-66ea-44b3-bb10-4fa414cc3384-00-1uj54yx85i701.picard.replit.dev/) once you enable GitHub Pages for your repository.
